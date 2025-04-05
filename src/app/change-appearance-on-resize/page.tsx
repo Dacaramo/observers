@@ -27,6 +27,9 @@ const page = () => {
         flex items-center justify-center
         text-8xl select-none
       "
+      style={{
+        backgroundColor: 'white'
+      }}
     >
       {emoji}
     </div>
